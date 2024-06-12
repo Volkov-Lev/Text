@@ -1,1 +1,1 @@
-***[animation text](https://volkov-lev.github.io/Text/)***
+***[animated text](https://volkov-lev.github.io/Text/)***
